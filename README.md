@@ -16,6 +16,7 @@ On the shown website, select your local wifi network, enter the key for it and s
 ## Media
 Photos: https://pixel.tchncs.de/p/greygoo/586695111360716092<br>
 Video: https://spectra.video/w/j4V3S5YeiwPztV6c2pn2u7 
+Openscad files: https://www.thingiverse.com/thing:5982201
 
 ## Note
 The code was hacked together in a rush, and will be changed to compile with Arduino-Makefile eventually
