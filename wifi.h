@@ -1,0 +1,3 @@
+#define APSSID "GC-SETUP"
+#define APKEY "0123456789"
+
